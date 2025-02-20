@@ -11,7 +11,7 @@ Additionally, I am learning database management through SQL and hope to be able 
 
 **Fiber Optic Network Buildout**
 
-spearheaded research into nationwide Fiber Optic network buildout through data mining and modeling 
+Spearheaded research into nationwide Fiber Optic network buildout through data mining and modeling 
   - Key accomplishments
       1. Discovered and highlighted high-value target areas across multiple states including urban and rural unserved and underserved markets
       2. Mined data to create high-quality leads of potential customers by mining B.E.A.D (Broadband Equity, Access, and Deployment) and other relevant government programs for current and pending contracts between State and County organizations and independent contractors.
