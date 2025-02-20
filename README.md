@@ -8,13 +8,17 @@ Additionally, I am learning database management through SQL and hope to be able 
 2. PowerPoint
 3. Blender - 3D modeling & printing
 # Recent Projects 
+
 **Fiber Optic Network Buildout**
+
 spearheaded research into nationwide Fiber Optic network buildout through data mining and modeling 
   - Key accomplishments
       1. Discovered and highlighted high-value target areas across multiple states including urban and rural unserved and underserved markets
       2. Mined data to create high-quality leads of potential customers by mining B.E.A.D (Broadband Equity, Access, and Deployment) and other relevant government programs for current and pending contracts between State and County organizations and independent contractors.
       3. Further developed lead generation capabilities by using online tools and databases to build customer-focused contact lists
+
 **Data Center & AI PAM Estimation**
+
 Estimated Product Addressable Market (PAM) and analyzed established and emerging companies in the Data Center and AI development field
   - Key Accomplishments
       1. created extensive and detailed profiles of the top 50 data center and AI companies through various methods of data mining, research, and interviews with industry professionals
