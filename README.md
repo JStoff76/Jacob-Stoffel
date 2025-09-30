@@ -1,17 +1,20 @@
-# Professional-Prep
-👨‍🎓 Junior at the University of Iowa and an aspiring Data Scientist with a Spring 2026 Graduation
+# Personal & Professional Development
+👨‍🎓 Senior at the University of Iowa and an aspiring Data Scientist with a Spring 2026 Graduation
 
-🎯 Currently getting familiar with Github as a professional development tool and a learning tool while I further develop my coding and technical skills
+🎯 Familiar with Github as a professional development tool and a learning tool while I further develop my coding and technical skills
 
-🧩 Learning Python through coursework and extensive YouTube research. I hope to learn how to better blend my coding skills so I can use them in my work this summer. 
-Additionally, I am learning database management through SQL and hope to be able to showcase my learning this summer at my internship. 
+🧩 Learning Python through coursework and extensive YouTube research. Have had great success in polishing my coding capabilites.
+Additionally, I am learning database management through SQL, Python, Jupyter Notebook, and Snowflake this summer at my internship. 
 
 
 
 # Current Technical Skills
-1. Excel
-2. PowerPoint
-3. Blender - 3D modeling & printing
+1. Python
+2. SQL
+3. Snowflake
+4. Blender - 3D modeling & printing
+5. PowerBI - Power Query
+
 # Recent Projects 
 
 **Fiber Optic Network Buildout**
