@@ -31,4 +31,9 @@ Estimated Product Addressable Market (PAM) and analyzed established and emerging
   - Key Accomplishments
       1. created extensive and detailed profiles of the top 50 data center and AI companies through various methods of data mining, research, and interviews with industry professionals
       2.  Mined and analyzed data to estimate size, scalability, power requirements, # of locations globally,  property size of individual locations, # of active terminals per operating site.
-      3.  Used the built database to estimate PAM of each company for products made and sold by my employer 
+      3.  Used the built database to estimate PAM of each company for products made and sold by my employer
+   
+# Project Portfolio
+** https://www.jacobstoffel.com/ **
+
+
